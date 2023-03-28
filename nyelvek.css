@@ -1,4 +1,9 @@
-﻿a
+﻿body{
+	color: #00008b;
+	background-color: #FFD700;
+	
+}
+a
 {
 	color: red;
 }
@@ -66,5 +71,15 @@ li
 	padding: 3px;
 	margin: 3px;
 	font-style: italic;
+	list-style-image: url(list.png);
 }
 
+h1, h2 {
+	color: red;
+	text-transform: uppercase;
+}
+#f_vonal{
+	width: 800px;
+	height: 6px;
+	background-color: green;
+}
